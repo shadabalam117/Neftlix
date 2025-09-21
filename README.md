@@ -1,2 +1,0 @@
-# Neftlix
-Neftlix clone
